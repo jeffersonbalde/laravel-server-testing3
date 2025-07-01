@@ -27,7 +27,7 @@ Route::get('/users', function () {
 Route::get('/test-db', function () {
     try {
         DB::connection()->getPdo();
-        return "DB connection success!";
+        return "DB connection successs!";
     } catch (\Exception $e) {
         return $e->getMessage();
     }
