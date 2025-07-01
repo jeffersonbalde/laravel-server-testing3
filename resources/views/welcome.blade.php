@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Jefferson Balde
+                    Laravel Jefferson Sabanal Balde
                 </div>
 
                 <div class="links">
